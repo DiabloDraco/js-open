@@ -5,6 +5,4 @@ function reverse_a_number(n) {
     return n.split("").reverse().join("");
 }
 
-document.writeln(reverse_a_number(reverse));
-
 alert (reverse_a_number(reverse))
